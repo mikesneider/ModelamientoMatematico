@@ -1,2 +1,2 @@
 # Modelamiento Matematico
-Programas en IPython para asignatura de Modelamiento Matemático, Maestría en Ingeniería en Sistemas
+some codes in IPython for Mathematical Modeling, of the Master in Universidad Industrial de Santander
